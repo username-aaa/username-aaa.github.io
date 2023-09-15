@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://username-aaa.github.io</id>
+    <title>Gaming--Blog</title>
+    <updated>2023-09-15T17:19:11.545Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://username-aaa.github.io"/>
+    <link rel="self" href="https://username-aaa.github.io/atom.xml"/>
+    <subtitle>一个普通的博客，真的非常普通awa</subtitle>
+    <logo>https://username-aaa.github.io/images/avatar.png</logo>
+    <icon>https://username-aaa.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, Gaming--Blog</rights>
+</feed>
